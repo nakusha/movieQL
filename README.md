@@ -16,3 +16,11 @@ const server = new GraphQLServer({
 
 ## graphql/resolvers.js
 > resolvers를 설정하는 파일
+
+## Query/Mutation
+> Query(R)
+    Read Only
+> Mutation(CUD)
+    Create
+    Update
+    Delete
